@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "77163224983",
+    "project_id": "fluttertodo-b255d",
+    "storage_bucket": "fluttertodo-b255d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:77163224983:android:91f439febc61f972ffeed2",
+        "android_client_info": {
+          "package_name": "com.example.firedev"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVKITUuqegtHFYzBsAD2_aarOttms7rwk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
